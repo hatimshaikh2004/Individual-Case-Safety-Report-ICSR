@@ -7,13 +7,13 @@
 **Domain:** Pharmacovigilance & Drug Safety Management  
 ---
 ## Executive Summary
-An **Individual Case Safety Report (ICSR)** is an itemized format used in pharmacovigilance to document and report suspect adverse drug reactions (ADRs) occurring in a single patient[span_2](start_span)[span_2](end_span). This capstone project integrates the end-to-end evaluation workflow performed by a Drug Safety Associate, including ADR identification, ICSR documentation, causality testing, and safety classification[span_3](start_span)[span_3](end_span).
+An **Individual Case Safety Report (ICSR)** is an itemized format used in pharmacovigilance to document and report suspect adverse drug reactions (ADRs) occurring in a single patient. This capstone project integrates the end-to-end evaluation workflow performed by a Drug Safety Associate, including ADR identification, ICSR documentation, causality testing, and safety classification.
 ---
 ## Primary Deliverables Overview
-1. **ADR Identification:** Extraction of essential safety data from clinical case narratives[span_4](start_span)[span_4](end_span).
-2. **ICSR Form Documentation:** Structuring data into standardized ICH E2B-compatible safety report fields[span_5](start_span)[span_5](end_span).
-3. **Causality Assessment:** Determining the strength of association using the Naranjo Algorithm and WHO-UMC scale[span_6](start_span)[span_6](end_span).
-4. **Severity & Expectedness Classification:** Classifying case seriousness and regulatory reporting urgency[span_7](start_span)[span_7](end_span).
+1. **ADR Identification:** Extraction of essential safety data from clinical case narratives.
+2. **ICSR Form Documentation:** Structuring data into standardized ICH E2B-compatible safety report fields.
+3. **Causality Assessment:** Determining the strength of association using the Naranjo Algorithm and WHO-UMC scale.
+4. **Severity & Expectedness Classification:** Classifying case seriousness and regulatory reporting urgency.
 ---
 ## Section 1: Clinical Case Narrative & Identification
 * **Patient Demographic:** 32-year-old Male | Weight: 65 kg | Patient Initials: `RP`
